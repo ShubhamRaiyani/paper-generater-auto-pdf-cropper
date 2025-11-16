@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+temp_pages/
+extracted_questions/
+cropped_questions/
+
+*.pdf
